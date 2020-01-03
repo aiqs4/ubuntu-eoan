@@ -1,0 +1,7 @@
+linux-rk3318 (5.3.0-1001.24) eoan; urgency=medium
+
+  * Initial eoan/rk3318 packaging
+
+ -- Sascha Dewald <sascha.dewald@gmail.com>  Fri, 03 Jan 2020 12:41:03 +0200
+
+
